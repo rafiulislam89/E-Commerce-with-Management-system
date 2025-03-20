@@ -148,6 +148,14 @@ and will generate source maps as well
 #### For production
 Run `npm run prod` to build the files for production. This will generate minified files.
 
+
+
+# Visitor Count  
+<p align="center">
+  <img src="https://visitor-count-b8lb.vercel.app/api/Github_Username?hexColor=00ff00" />
+</p>
+
+
     
 ## Create admin user
 Run the following console command to create admin user. PASSWORD is optional, you can skip it and system will generate a random password
